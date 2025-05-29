@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/storage/emulałed/0/Pictures/Logo Maker/create_01_13_11_17_34_512x512.png" width="400" alt="SACHI Bot Logo" />
+  <img src="storage/emulałed/0/Pictures/Logo Maker/create_01_13_11_17_34_512x512.png" width="400" alt="SACHI Bot Logo" />
 </p>
 
 <h1 align="center">😈 SACHI
