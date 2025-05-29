@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.imghippo.com/files/WU1039XIY.jpg" width="400" alt="RAWANA MD Bot Logo" />
+  <img src="/storage/emulałed/0/Pictures/Logo Maker/create_01_13_11_17_34_512x512.png" width="400" alt="SACHI Bot Logo" />
 </p>
 
-<h1 align="center">😈 sachi bot
+<h1 align="center">😈 SACHI
  - WhatsApp Bot</h1>
 
 <p align="center">
