@@ -19,7 +19,7 @@
 - 🤖 Auto-Reply & Stickers  
 - ⚙️ Group Tools & Admin Features  
 - 🌐 MongoDB + Baileys Multi-Device Support  
-- 🔐 Secure & Customizable  
+- 🔐 Secure & Customizable        
 
 ---
 
