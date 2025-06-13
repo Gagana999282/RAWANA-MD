@@ -32,7 +32,7 @@
     "yt-search":"latest",
     "api-dylux":"latest",
     "fb-downloader-scrapper": "latest",
-    "@vreden/youtube_scraper": "latest",
+    "@vreden/youtube_scraper": "latest",     
     "denethdev-ytmp3": "latest",
     "cheerio": "latest",
     "undici": "latest",
